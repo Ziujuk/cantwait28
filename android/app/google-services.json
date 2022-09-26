@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424014023196",
+    "project_id": "cantwaitmozeterazzadziala",
+    "storage_bucket": "cantwaitmozeterazzadziala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424014023196:android:a3ca95760e3647ea562dd9",
+        "android_client_info": {
+          "package_name": "com.jakubjuziuk.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424014023196-gu6mlvtm53u7pfs9dgkvnst692dob1qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQtqQpZc-7-5nL_SH6gp-Vj723eNAUk0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424014023196-gu6mlvtm53u7pfs9dgkvnst692dob1qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
