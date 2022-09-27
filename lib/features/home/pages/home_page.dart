@@ -42,7 +42,7 @@ class _HomePageBody extends StatelessWidget {
       create: (context) => HomeCubit()..start(),
       child: BlocBuilder<HomeCubit, HomeState>(
         builder: (context, state) {
-          final docs = state.items?.docs;
+          final docs = state.items;
           if (docs == null) {
             return const SizedBox.shrink();
           }
